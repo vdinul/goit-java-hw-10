@@ -26,6 +26,7 @@ public class Aufgabe2 {
     public static void main(String[] args) {
         final List<String> input = Arrays.asList("Pavlo", "Petro", "Vasyl", "Ivan", "Stepan", "Semen");
         List<String> result = sorting(input);
+
         System.out.println(result);
     }
 }
